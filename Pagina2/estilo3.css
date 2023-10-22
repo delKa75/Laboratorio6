@@ -36,7 +36,7 @@ nav a.current {
 }
 
 .img-container img{
-    width:350px;
+    width:290px;
     margin:0 10px;
     margin-left: 90px;
     margin-top: 80px;
@@ -51,15 +51,15 @@ nav a.current {
 
 #boton1{
     margin-top: 50px;
-    margin-left: 220px;
+    margin-left: 190px;
 }
 
 #boton2{
     margin-top: 50px;
-    margin-left: 350px;
+    margin-left: 300px;
 }
 
 #boton3{
     margin-top: 50px;
-    margin-left: 350px;
+    margin-left: 290px;
 }
