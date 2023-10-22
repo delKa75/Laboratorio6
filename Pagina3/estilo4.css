@@ -1,0 +1,78 @@
+header {
+    background-color: #f5f3f3;
+    color: #130202;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #110b0b;
+}
+
+body {
+    background-image: url(../fotos/fondo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav a.current {
+    font-weight: bold;
+}
+
+#menu a.active {
+    font-weight: bold; 
+}
+
+.enca{
+    background-color: #130202;
+    color: #f5f3f3;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.carousel-text1 {
+    padding: 20px; 
+    background-color: #f5f3f3;
+    color: palevioletred;
+    margin-top: 20px;
+}
+
+.carousel-text2{
+    padding: 20px; 
+    background-color: #f5f3f3;
+    color: rgb(198, 198, 36);
+    margin-top: 20px;
+}
+.carousel-text3 {
+    padding: 20px; 
+    background-color: #f5f3f3;
+    color: maroon;
+}
+
+.carousel-text h1 {
+    font-size: 24px;
+    color: #070606;
+    background-color: #f5f3f3;
+}
+
+.carousel-text p {
+    font-size: 16px;
+    color: #666;
+}
+
+#carousel, #carousel2 {
+    margin: 20px 0;
+}
+
